@@ -5,6 +5,6 @@ EcoPrints is an eco-friendly social media platform that both educate and raise p
 
 So we decided to reward our users as well- when they complete challenges they will earn “green feet” and depending on challenge’s importance the amount of “green feet” will vary. Users could exchange these feet for various rewards such as discounts or free products from famous shops and sites.
 
-# [Go to the website](https://ecoprints.us/EcoPrints/home) - Go to the website.
+# [Go to the website](https://ecoprints.us/EcoPrints/home)
 We participated in NASA Space Apps with this idea. Our main project developed with ASP.NET Core, React JS, Python - Jupyter Notebook (for Data analysis and Visualisation).
 We have explained our purpose in the first elimination round. Full project will be available in world finals.
